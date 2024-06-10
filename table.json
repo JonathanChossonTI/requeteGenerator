@@ -1,0 +1,12 @@
+[
+    {"Produit":[
+        "cle",
+        "desig",
+        "actif"
+    ]},
+    {"Client":[
+        "Codcli",
+        "Nom",
+        "actif"
+    ]}
+]
